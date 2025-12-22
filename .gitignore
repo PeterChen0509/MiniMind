@@ -2,7 +2,7 @@ dataset/._____temp/
 SwanLab/swanlog/
 dataset/.msc
 dataset/.mv
-dataset/**/*.jsonl
+dataset/*.jsonl
 
 
 
@@ -16,3 +16,6 @@ dataset/**/*.jsonl
 
 
 
+dataset/*.jsonl
+dataset/.msc
+dataset/.mv
