@@ -1,13 +1,8 @@
-dataset\._____temp
+dataset/._____temp/
 SwanLab/swanlog/
-dataset\.msc
-dataset\.mv
-dataset\dpo.jsonl
-dataset\pretrain_hq.jsonl
-dataset\r1_mix_1024.jsonl
-dataset\rlaif-mini.jsonl
-dataset\sft_mini_512.jsonl
-
+dataset/.msc
+dataset/.mv
+dataset/**/*.jsonl
 
 
 
